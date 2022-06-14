@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "nombre": "Carlos",
+            "calificaciones": {
+                "bd": 8,
+                "lm": 7,
+                "si": 6,
+                "entornos": 5,
+                "programacion": 5,
+                "fol": 4
+            }
+        },
+        {
+            "id": "2",
+            "nombre":"Ana",
+            "calificaciones": {
+                "bd": 5,
+                "lm": 7,
+                "si": 8,
+                "entornos": 8,
+                "programacion": 9,
+                "fol": 3
+            }
+        },
+        {
+            "id": "3",
+            "nombre": "María",
+            "calificaciones": {
+                "bd": 7,
+                "lm": 4,
+                "si": 4,
+                "entornos": 7,
+                "programacion": 5,
+                "fol": 6
+            }
+        }
+    ]
+}
